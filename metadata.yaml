@@ -1,5 +1,5 @@
 _repo: The-Greek-View-of-Life_6200
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -32,6 +32,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'DF'
 - !lcsh 'Greece -- Civilization'
+- GITenberg
 tableOfContents: The Greek view of religion -- The Greek view of the state -- The
   Greek view of the individual -- The Greek view of art -- Conclusion.
 title: The Greek View of Life
